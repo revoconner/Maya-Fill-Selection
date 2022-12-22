@@ -17,3 +17,4 @@ https://youtu.be/G5mm3X4Sy8s
 2. Will only select faces that are part of that element (or shell)
 3. Delete history before using.
 4. May take some seconds to work on high poly models, wait for it to complete.
+5. Supports triangles, may not support all N-gons
