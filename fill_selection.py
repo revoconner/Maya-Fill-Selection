@@ -76,7 +76,7 @@ pm.polySplitEdge(loop_faces)
 #selecting inside faces
 pm.select(lastface)
 grow = 0 
-while grow <= total_faces:
+while grow <= total_faces/4: #Dividing by four because growing selection will be done in multiples of 4 in the least, so should work while staying fast.
 	mel.eval('PolySelectTraverse 1')
 	grow= grow+1
 pm.select(loop_faces, add=True)
