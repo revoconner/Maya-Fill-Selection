@@ -14,7 +14,8 @@ https://youtu.be/G5mm3X4Sy8s
 
 ## Note
 1. Written in python 3 may not work in older version of Maya
-2. Will only select faces that are part of that element (or shell)
-3. Delete history before using.
-4. May take some seconds to work on high poly models, wait for it to complete.
-5. Supports triangles, may not support all N-gons
+2. There are two versions of the file, no pymel version is not tested but does the same thing (for future compatibility)
+3. Will only select faces that are part of that element (or shell)
+4. Delete history before using.
+5. May take some seconds to work on high poly models, wait for it to complete.
+6. Supports triangles, may not support all N-gons
