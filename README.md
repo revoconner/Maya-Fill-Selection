@@ -2,6 +2,8 @@
 
 A small script written in Python 3 to add the capability of fill selection in Maya. I loved this feature in 3ds Max so thought of implementing it in Maya.
 
+<img src="https://raw.githubusercontent.com/revoconner/Maya-Fill-Selection/refs/heads/main/ezgif-2cf2cd7f44db60ce.gif" />
+
 ## Demo Video
 https://youtu.be/G5mm3X4Sy8s (older video, algorithm much faster now 3/jan/2026)
 
